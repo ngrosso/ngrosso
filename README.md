@@ -9,7 +9,7 @@
 - 📚 Currently reading: [Clean Code by Robery C. Martin](https://www.goodreads.com/book/show/3735293-clean-code), [Atomic Habits by James Clear](https://www.goodreads.com/book/show/40121378-atomic-habits), [1984 by George Orwell](https://www.goodreads.com/book/show/40961427-1984)
 - 📺 Currently watching: Wandavision
 - 🎮 Currently playing: Final Fantasy XIV, SnowRunner
-- 📫 How to reach me: nzgrosso@gmail.com / https://www.nzgrosso.com.ar/contact/
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nicolas-grosso/) / nzgrosso@gmail.com / https://www.nzgrosso.com.ar/contact/
 - 🇦🇷 From Argentina
 
 ## Currently doing:
