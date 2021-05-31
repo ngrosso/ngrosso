@@ -14,11 +14,14 @@
 
 ## Currently doing:
 ### Project
-Retaking lessons after course revamp from: [Web Development Bootcamp 2021 from Colt Steele's Udemy course](https://www.udemy.com/course/the-web-developer-bootcamp/)
- Repo: https://github.com/ngrosso/WebDevelopment2021
+
+- Coderhouse's fullstack course
+- EducacionIT Java engineer course
+
  
 ### University
-Preparing Final exams
+- Preparing Final exams
+- Calculus classes
  
  ## Tech Plans for 2021
  ### Software Development
@@ -26,6 +29,7 @@ Preparing Final exams
  - Finish [Web Development Bootcamp 2021 from Colt Steele's Udemy course](https://www.udemy.com/course/the-web-developer-bootcamp/)
  - Finish [Unity Game Course by Domestika course](https://github.com/ngrosso/UnityProject)
  - Learn advanced Java, MERN stack and C
- 
+ - Retaking lessons after course revamp from: [Web Development Bootcamp 2021 from Colt Steele's Udemy course](https://www.udemy.com/course/the-web-developer-bootcamp/)
+ Repo: https://github.com/ngrosso/WebDevelopment2021
 
 
