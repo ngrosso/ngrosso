@@ -2,7 +2,7 @@
 
 ## Overview
 
-- 🏢 Software Developer at [Watea! Solutions](https://www.wateasolutions.com/)
+- 🏢 Software Developer and Technical Leader at [Watea! Solutions](https://www.wateasolutions.com/)
 - 📓Studying Systems Engineer at [Universidad Tecnologica Nacional](https://www.frba.utn.edu.ar/)
 - 🔭 Currently working in Electronic Invoice, Personal webpage, ~~Videogame Design~~ [on hold], InfoSec 
 - 🌱 Learning Java, MERN stack, Python, C, C#, Physics, Calculus II
