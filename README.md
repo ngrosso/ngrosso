@@ -1,4 +1,4 @@
-# Hi there welcome to my profile 👨‍💻
+# Welcome to my profile 👨‍💻
 
 ## Overview
 
