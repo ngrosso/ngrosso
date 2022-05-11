@@ -8,7 +8,7 @@
 - 🌱 Learning Java, MERN stack, Python, C, C#, Physics, Calculus II
 - 📚 Currently reading: [Clean Code by Robery C. Martin](https://www.goodreads.com/book/show/3735293-clean-code), [Atomic Habits by James Clear](https://www.goodreads.com/book/show/40121378-atomic-habits), [1984 by George Orwell](https://www.goodreads.com/book/show/40961427-1984)
 - 📺 Currently watching: Loki
-- 🎮 Currently playing: Final Fantasy XIV, Final Fantasy XII, Euro Truck Simulator 2
+- 🎮 Currently playing: Microsoft Flight Simulator, World of Warships, Foxhole, Squad
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nicolas-grosso/) / nzgrosso@gmail.com / https://www.nzgrosso.com.ar/contact/
 - 🇦🇷 From Argentina
 
@@ -19,11 +19,7 @@
 - EducacionIT Java engineer course
 
  
-### University
-- Preparing Final exams
-- Calculus classes
- 
- ## Tech Plans for 2021
+ ## Tech Plans for 2022
  ### Software Development
  - Finish [Personal webpage](https://nzgrosso.com.ar/)
  - Finish [Unity Game Course by Domestika course](https://github.com/ngrosso/UnityProject)
