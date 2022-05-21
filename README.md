@@ -12,7 +12,7 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nicolas-grosso/) / nzgrosso@gmail.com / https://www.nzgrosso.com.ar/contact/
 - 🇦🇷 From Argentina
 
-## Currently doing:
+## Currently doing
 ### Project
 
 - Coderhouse's fullstack course
