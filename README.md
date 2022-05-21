@@ -27,6 +27,7 @@
  - Retaking lessons after course revamp from: [Web Development Bootcamp 2021 from Colt Steele's Udemy course](https://www.udemy.com/course/the-web-developer-bootcamp/)
  Repo: https://github.com/ngrosso/WebDevelopment2021
 
+## Profile info
 ![Zephi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngrosso&count_private=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngrosso&layout=compact)
 
