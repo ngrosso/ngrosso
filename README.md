@@ -4,7 +4,7 @@
 
 - 🏢 Software Developer and Technical Leader at [Watea! Solutions](https://www.wateasolutions.com/)
 - 📓Studying Systems Engineer at [Universidad Tecnologica Nacional](https://www.frba.utn.edu.ar/)
-- 🔭 Currently working in Electronic Invoice, Personal webpage, ~~Videogame Design~~ [on hold], InfoSec 
+- 🔭 Currently working in Java Electronic Invoice, Oracle Integrations, Personal webpage, ~~Videogame Design, InfoSec~~ [on hold] 
 - 🌱 Learning Java, MERN stack, Python, C, C#, Physics, Calculus II
 - 📚 Currently reading: [Clean Code by Robery C. Martin](https://www.goodreads.com/book/show/3735293-clean-code), [Atomic Habits by James Clear](https://www.goodreads.com/book/show/40121378-atomic-habits), [1984 by George Orwell](https://www.goodreads.com/book/show/40961427-1984)
 - 📺 Currently watching: Loki
