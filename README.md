@@ -28,6 +28,6 @@
  Repo: https://github.com/ngrosso/WebDevelopment2021
 
 ## Profile info
-<center>![Zephi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngrosso&count_private=true&theme=dracula)</center>
-<center>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngrosso&layout=compact)</center>
+<center> ![Zephi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngrosso&count_private=true&theme=dracula) </center>
+<center> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngrosso&layout=compact) </center>
 
