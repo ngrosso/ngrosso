@@ -4,11 +4,11 @@
 
 - 🏢 Software Developer and Technical Leader at [Watea! Solutions](https://www.wateasolutions.com/)
 - 📓Studying Systems Engineer at [Universidad Tecnologica Nacional](https://www.frba.utn.edu.ar/)
-- 🔭 Currently working in Java Electronic Invoice, Oracle Integrations, Personal webpage, ~~Videogame Design, InfoSec~~ [on hold] 
-- 🌱 Learning Java, MERN stack, Python, C, C#, Physics, Calculus II
+- 🔭 Currently working in Java Electronic Invoice, Oracle Integrations, Personal webpage,MEAN Stack, ~~Videogame Design, InfoSec~~ [on hold] 
+- 🌱 Learning Java, MERN stack, Python, C, C#, Physics, Calculus
 - 📚 Currently reading: [Clean Code by Robery C. Martin](https://www.goodreads.com/book/show/3735293-clean-code), [Atomic Habits by James Clear](https://www.goodreads.com/book/show/40121378-atomic-habits), [1984 by George Orwell](https://www.goodreads.com/book/show/40961427-1984)
-- 📺 Currently watching: Loki
-- 🎮 Currently playing: Microsoft Flight Simulator, World of Warships, Foxhole, Squad, Digital Combat Simulator
+- 📺 Currently watching: SpyxFamily
+- 🎮 Currently playing: Digital Combat Simulator, Microsoft Flight Simulator, Squad
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nicolas-grosso/) / nzgrosso@gmail.com / https://www.nzgrosso.com.ar/contact/
 - 🇦🇷 From Argentina
 
@@ -16,8 +16,9 @@
 ### Project
 
 - Coderhouse's fullstack course
+- LeetCode, HackeRank and more challenges
  
- ## Tech Plans for 2022
+ ## Tech Plans for 2023
  ### Software Development
  - Finish [Personal webpage](https://nzgrosso.com.ar/)
  - Finish [Unity Game Course by Domestika course](https://github.com/ngrosso/UnityProject)
