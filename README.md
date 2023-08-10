@@ -27,9 +27,11 @@
  Repo: https://github.com/ngrosso/WebDevelopment2021
 
 ## Profile info
-![Zephi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngrosso&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula&bg_color=00000000)
 
+![Zephi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngrosso&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula&bg_color=00000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngrosso&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&layout=compact&theme=dracula&bg_color=00000000)
+
+![Zephi's Roadmap](https://api.roadmap.sh/v1-badge/tall/64d56349aa497d7fa5238c29?variant=dark)
 
 ## Music!
 
